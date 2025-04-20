@@ -25,15 +25,13 @@
 
 ---
 
-<!-- GitHub统计 -->
-<h3 align="left">📈 我的GitHub数据</h3>
+<!-- 社交和链接 -->
+<h3 align="left">🌏 其它平台</h3>
 <p 
 </p>
 
----
-
-<!-- 社交和链接 -->
-<h3 align="left">🌏 其它平台</h3>
+---<!-- GitHub统计 -->
+<h3 align="left">📈 我的GitHub数据</h3>
 <p 
 </p>
 
