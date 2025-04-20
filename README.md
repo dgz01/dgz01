@@ -1,6 +1,6 @@
 <!-- 欢迎语和头像 -->
 <p align="center">
-  <img src="[(https://raw.githubusercontent.com/dgz01/dgz01/main/img/01.png)](https://raw.githubusercontent.com/dgz01/dgz01/main/img/01.png)" width="120" alt="dgz01 avatar" style="font-size:60px">
+  <img src="[https://raw.githubusercontent.com/dgz01/dgz01/main/img/01.png](https://raw.githubusercontent.com/dgz01/dgz01/main/img/01.png)" width="120" alt="dgz01 avatar" style="font-size:60px">
 </p>
 
 ---
