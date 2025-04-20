@@ -1,9 +1,9 @@
 <!-- 欢迎语和头像 -->
 <p align="center">
-  <img src="https://github.com/dgz01.png" width="120" alt="dgz01 avatar" style="font-size:60px;">
+  <img src="https://github.com/dgz01.png" width="120" alt="dgz01 avatar" style="font-size:60px">
 </p>
----
 
+---
 
 <h1 align="center">Hi, I'm dgz01 👋</h1>
 <p align="center">热爱编程与分享的开发者 | 专注于前端、AI与个人成长</p>
