@@ -27,19 +27,14 @@
 
 <!-- GitHub统计 -->
 <h3 align="left">📈 我的GitHub数据</h3>
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=dgz01&show_icons=true&theme=tokyonight"](https://github-readme-stats.vercel.app/api?username=dgz01&show_icons=true&theme=tokyonight") alt="dgz01 stats" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=dgz01&theme=tokyonight"](https://github-readme-streak-stats.herokuapp.com/?user=dgz01&theme=tokyonight") alt="dgz01 streak" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dgz01&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=dgz01&layout=compact&theme=tokyonight") alt="dgz01 top langs" />
+<p 
 </p>
 
 ---
 
 <!-- 社交和链接 -->
 <h3 align="left">🌏 其它平台</h3>
-<p align="left">
-  <a href="[https://dgz01.github.io](https://dgz01.github.io)" target="_blank"><img src="[https://img.shields.io/badge/Blog-个人博客-blue?style=flat-square"/></a>](https://img.shields.io/badge/Blog-个人博客-blue?style=flat-square"/></a>)
-  <a href="mailto:your_email@example.com"><img src="[https://img.shields.io/badge/Email-邮件-c14438?style=flat-square&logo=gmail&logoColor=white"/></a>](https://img.shields.io/badge/Email-邮件-c14438?style=flat-square&logo=gmail&logoColor=white"/></a>)
+<p 
 </p>
 
 ---
