@@ -20,7 +20,7 @@
 <!-- 技能徽章 -->
 <h3 align="left">🛠 技能栈</h3>
 <p align="left">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>)
+
 </p>
 
 ---
