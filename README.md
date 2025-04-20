@@ -1,7 +1,11 @@
 <!-- 欢迎语和头像 -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/59541437?v=4"](https://avatars.githubusercontent.com/u/59541437?v=4") width="120" alt="dgz01 avatar" style="border-radius:50%">
+  <img src="[https://github.com/dgz01.png"](https://github.com/dgz01.png") width="120" alt="dgz01 avatar" style="border-radius:50%">
 </p>
+
+---
+
+
 <h1 align="center">Hi, I'm dgz01 👋</h1>
 <p align="center">热爱编程与分享的开发者 | 专注于前端、AI与个人成长</p>
 
